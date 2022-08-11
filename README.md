@@ -17,7 +17,7 @@ Private License
 
 ## Description
 
-   This is a mini project implementing Node.js to create a professional README that can be used for any future
+   This is a mini project implementing Node.js to create a professional README that can be used for any future project.
 
 ## License
 
